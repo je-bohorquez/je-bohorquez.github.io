@@ -3,12 +3,11 @@
 </div>
 <img src="banner.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
-
 ## 🙋 About me
 - 🧑‍💻 I'm an Business Analyticss  
 - 📊 Data Analysis
 - 🎯 Become in a Data Scientist
+- 💼 Contact me -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
 
 
 <div align = "left">
