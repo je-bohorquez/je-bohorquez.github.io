@@ -9,3 +9,9 @@
 - :technologist: I'm an Business Analyticss  
 - 📊 Data Analysis
 - 🎯 Become in a Data Scientist
+
+<div align = "left">
+  <h3> Softwares & Tools</h3>
+  <div>
+    <img src="Power-BI.png" title="Power BI" alt="Power-BI" width="40" height="40"/>
+  </div>
