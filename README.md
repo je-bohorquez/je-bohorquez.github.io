@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, This is <a href="https://je-bohorquez.github.io/Portfolio/">Juan Eder</a> 👋</h1>
+<h2 align="center">Hi, This is <a href="https://je-bohorquez.github.io/Portfolio/">Juan Eder</a> 👋</h2>
 </div>
 <img src="banner.png">
 
@@ -12,13 +12,13 @@
 
 
 <div align = "left">
-  <h3> Softwares & Tools</h3>
+  <h2> Softwares & Tools</h2>
   <div>
     <img src="Power-BI.png" title="Power BI" alt="Power-BI" width="70" height="50"/>&nbsp;
      <img src="sql-server-logo.svg" title="SQL Server" alt="SQL Server" width="70" height="50"/>&nbsp;
   </div>
 
-### My statics :
+## My statics board:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=je-bohorquez&theme=cobalt2&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
 
