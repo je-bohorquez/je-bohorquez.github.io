@@ -1,7 +1,7 @@
 <div align="center">
 <h2 align="center">Hi, This is <a href="https://je-bohorquez.github.io/Portfolio/">Juan Eder</a> 👋</h2>
 </div>
-<img src="banner.png">
+<img src="banner je.png">
 
 ## 🙋 About me
 - 🧑‍💻 I'm an Business Analyticss  
